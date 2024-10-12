@@ -1,0 +1,4 @@
+Pillow==9.0.0
+PyPDF2==2.10.0
+python-docx==0.8.11
+pywin32==302
